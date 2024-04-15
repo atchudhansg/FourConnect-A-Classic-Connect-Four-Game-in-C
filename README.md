@@ -29,4 +29,4 @@ FourConnect is a meticulously crafted implementation of the classic Connect Four
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the  Creative Commons Attribution-NonCommercial-ShareAlike - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Zero v1.0 Universal - see the [LICENSE](LICENSE) file for details.
